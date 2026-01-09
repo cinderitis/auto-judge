@@ -1,4 +1,4 @@
-# AutoJudge: Predicting Programming Problem Difficulty 🧠
+# AutoJudge: Predicting Programming Problem Difficulty 
 
 **AutoJudge** is an intelligent system designed to automatically predict the difficulty level (**Easy / Medium / Hard**) and a numerical difficulty score for competitive programming problems. By analyzing the textual description, input constraints, and mathematical density of a problem statement, AutoJudge predicts its difficulty as percieved by a human.
 
@@ -113,7 +113,7 @@ The web UI is built with **Streamlit** for simplicity and speed.
 
 ## 🎥 Demo
 
-**[Link to Demo Video]** *: blank 
+**[Link to Demo Video]** *: (https://drive.google.com/file/d/1Wg5i1oxWzlym1o6UtjupCR0xdHle-EVr/view?usp=sharing)
 
 **Developed by:**
-* **Name:** Ishika Chikate
+* **Name:** Ishika 
