@@ -111,9 +111,6 @@ The web UI is built with **Streamlit** for simplicity and speed.
 
 ---
 
-## 🎥 Demo
-
-**[Link to Demo Video]** *: (https://drive.google.com/file/d/1Wg5i1oxWzlym1o6UtjupCR0xdHle-EVr/view?usp=sharing)
 
 **Developed by:**
 * **Name:** Ishika 
